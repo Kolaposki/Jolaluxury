@@ -1,20 +1,19 @@
-# Django Project Boilerplate
+# Jolaluxury Ecommerce WebApp
+An ecommerce webapp for sales of jolaluxury products
 
-This repository is a boilerplate Django project for quickly getting started.
+## Tools & Libraries
 
-[![alt text](https://github.com/justdjango/django_project_boilerplate/blob/master/thumbnail.png "Logo")](https://www.youtube.com/watch?v=GEogao-tUec)
+* Django web framework
+* Bootstrap
 
-## Getting started
+## Authors
 
-Steps:
+* **Oshodi Kolapo**
 
-1. Clone/pull/download this repository
-2. Create a virtualenv with `virtualenv env` and install dependencies with `pip install -r requirements.txt`
-3. Configure your .env variables
-4. Rename your project with `python manage.py rename <yourprojectname> <newprojectname>`
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-This project includes:
+Please make sure to update tests as appropriate.
 
-1. Settings modules for deploying with Azure
-2. Django commands for renaming your project and creating a superuser
-3. A cli tool for setting environment variables for deployment
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
